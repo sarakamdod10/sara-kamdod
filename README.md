@@ -2,6 +2,14 @@
 # 💫 About Me:
 I'm Sara from Bangalore, and I am currently working as an intern @Deevia. I have a knowledge of Python and Machine learning and i like to learn new tools and technologies.
 
+## Skills:
+- Python'
+- C
+- HTML
+- CSS
+- Machine Learning
+- Deep Learning
+- NLP
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sara-kamdod-1123591a6/) 
